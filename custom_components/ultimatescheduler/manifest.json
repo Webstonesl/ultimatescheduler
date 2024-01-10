@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@Webstonesl"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/Webstonesl/ultimatescheduler",
+  "domain": "ultimatescheduler",
+  "iot_class": "local_polling",
+  "name": "Ultimate Scheduler",
+  "requirements": [],
+  "version": "1.0.0"
+}
